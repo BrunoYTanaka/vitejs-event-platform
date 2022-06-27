@@ -1,8 +1,7 @@
 # Event Platform
 
 # Project Preview
-<!-- ![Project Preview](./preview.gif =100x) -->
-<img src="./preview.gif" width="500px">
+<img src="./preview.png" width="500px">
 
 # Table of Content
 
