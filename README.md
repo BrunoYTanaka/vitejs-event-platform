@@ -1,7 +1,7 @@
 # Event Platform
 
 # Project Preview
-<img src="./preview.png" width="500px">
+<img src="./preview.png">
 
 # Table of Content
 
